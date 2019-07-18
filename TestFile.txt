@@ -1,0 +1,1 @@
+Git supports several transport protocols to connect to other Git repositories; the native protocol for Git is also called git.
